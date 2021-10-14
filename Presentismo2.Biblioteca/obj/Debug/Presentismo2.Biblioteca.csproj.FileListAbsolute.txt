@@ -1,0 +1,9 @@
+C:\Users\Romina\source\repos\Presentismo2\Presentismo2.Biblioteca\obj\Debug\Presentismo2.Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Romina\source\repos\Presentismo2\Presentismo2.Biblioteca\obj\Debug\Presentismo2.Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Romina\source\repos\Presentismo2\Presentismo2.Biblioteca\bin\Debug\Presentismo2.Biblioteca.dll
+C:\Users\Romina\source\repos\Presentismo2\Presentismo2.Biblioteca\bin\Debug\Presentismo2.Biblioteca.pdb
+C:\Users\Romina\source\repos\Presentismo2\Presentismo2.Biblioteca\bin\Debug\Presentismo2.Excepciones.dll
+C:\Users\Romina\source\repos\Presentismo2\Presentismo2.Biblioteca\bin\Debug\Presentismo2.Excepciones.pdb
+C:\Users\Romina\source\repos\Presentismo2\Presentismo2.Biblioteca\obj\Debug\Presentismo2.Biblioteca.csproj.CopyComplete
+C:\Users\Romina\source\repos\Presentismo2\Presentismo2.Biblioteca\obj\Debug\Presentismo2.Biblioteca.dll
+C:\Users\Romina\source\repos\Presentismo2\Presentismo2.Biblioteca\obj\Debug\Presentismo2.Biblioteca.pdb
